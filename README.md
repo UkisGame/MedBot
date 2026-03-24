@@ -1,0 +1,2 @@
+# MedBot
+MedBot discord bot
